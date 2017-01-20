@@ -1,0 +1,22 @@
+{
+  "name": "ZackLearnNodejs",
+  "authors": [
+    "zack_peng"
+  ],
+  "description": "Imooc Movie Bank",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
